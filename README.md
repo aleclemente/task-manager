@@ -52,6 +52,3 @@ The application runs in the terminal and provides interactive menus to manage bo
 ## Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
 
-## License
-[MIT](LICENSE)
-
